@@ -49,18 +49,18 @@ And just like I am doing with junhopark.com, I'm using the Zerigo DNS add-on to 
 
 Here are some screenshots of the new site:
 
-![Moody Shoe Repair (new) - Home](/assets/img/moodyshoerepair_new_home_small.png)
-![Moody Shoe Repair (new) - About](/assets/img/moodyshoerepair_new_about_small.png)
-![Moody Shoe Repair (new) - Services](/assets/img/moodyshoerepair_new_services_small.png)
-![Moody Shoe Repair (new) - Contact](/assets/img/moodyshoerepair_new_contact_small.png)
+![Moody Shoe Repair (new) - Home](/assets/images/moodyshoerepair_new_home_small.png)
+![Moody Shoe Repair (new) - About](/assets/images/moodyshoerepair_new_about_small.png)
+![Moody Shoe Repair (new) - Services](/assets/images/moodyshoerepair_new_services_small.png)
+![Moody Shoe Repair (new) - Contact](/assets/images/moodyshoerepair_new_contact_small.png)
 
 And screenshots of the old site:
 
-![Moody Shoe Repair (old) - Home](/assets/img/moodyshoerepair_v3_home_small.png)
-![Moody Shoe Repair (old) - Our Services](/assets/img/moodyshoerepair_v3_services_small.png)
-![Moody Shoe Repair (old) - Find Us](/assets/img/moodyshoerepair_v3_findus_small.png)
-![Moody Shoe Repair (old) - About Us](/assets/img/moodyshoerepair_v3_about_small.png)
-![Moody Shoe Repair (old) - Contact Us](/assets/img/moodyshoerepair_v3_contact_small.png)
+![Moody Shoe Repair (old) - Home](/assets/images/moodyshoerepair_v3_home_small.png)
+![Moody Shoe Repair (old) - Our Services](/assets/images/moodyshoerepair_v3_services_small.png)
+![Moody Shoe Repair (old) - Find Us](/assets/images/moodyshoerepair_v3_findus_small.png)
+![Moody Shoe Repair (old) - About Us](/assets/images/moodyshoerepair_v3_about_small.png)
+![Moody Shoe Repair (old) - Contact Us](/assets/images/moodyshoerepair_v3_contact_small.png)
 
 I'm really liking the look of the new site.  Glad I was able to find such nice looking templates for cheap.
 

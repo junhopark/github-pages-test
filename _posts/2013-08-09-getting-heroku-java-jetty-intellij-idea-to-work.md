@@ -21,7 +21,7 @@ I thought I'd give it a go.  Please note that I'm running IntelliJ IDEA 11 on OS
 * I made some changes to index.jsp > Pressed Cmd + F9 > and my changes showed up upon refreshing my browser window.
 Likewise, I was able to do the same after making modifications to HelloServlet.java.
 
-![Screenshot](/assets/img/jetty_heroku_screenshot.jpg)
+![Screenshot](/assets/images/jetty_heroku_screenshot.jpg)
 
 Everything about this was extremely simple and straightforward *except* for having to add the jetty-maven-plugin.
 That took me quite awhile to figure out but now that I have, everything seems straightforward once again.

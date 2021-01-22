@@ -10,10 +10,10 @@ I love the privacy I have (truly feels like I'm in the middle of nowhere), the l
 
 Alrighty, time to leave to grab some dinner & will push up this blog post once I get back home.
 
-![Welcome to CITW](/assets/img/citw-welcome.jpg)
+![Welcome to CITW](/assets/images/citw-welcome.jpg)
 
-![Trail](/assets/img/citw-trail.jpg)
+![Trail](/assets/images/citw-trail.jpg)
 
-![The Sabbath Place hermitage](/assets/img/citw-hermitage.jpg)
+![The Sabbath Place hermitage](/assets/images/citw-hermitage.jpg)
 
-![The journals](/assets/img/citw-journals.jpg)
+![The journals](/assets/images/citw-journals.jpg)

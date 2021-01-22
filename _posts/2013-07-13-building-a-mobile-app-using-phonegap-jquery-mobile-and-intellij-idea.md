@@ -106,6 +106,6 @@ If you're curious, here's how I did it, step by step (on MacBook Air):
 
 And here it is:
 
-![My first mobile app](/assets/img/random_number_generator.png)
+![My first mobile app](/assets/images/random_number_generator.png)
 
 Not too bad, especially considering that I spent mere 2 hours and that this was my very first mobile app.  And I accomplished this with 20 lines of HTML, 5 lines of CSS, and 25 lines of JavaScript.

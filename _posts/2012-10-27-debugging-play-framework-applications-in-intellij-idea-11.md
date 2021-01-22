@@ -21,7 +21,7 @@ Host: localhost
 Port: 9999  
 Set the module drop-down list to your application module.  
 
-![IntelliJ](/assets/img/debug-play-in-intellij.png)
+![IntelliJ](/assets/images/debug-play-in-intellij.png)
 
 4) Go to Run > Debug > Select 'Play!'.
 

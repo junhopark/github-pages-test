@@ -32,4 +32,4 @@ Now, a few additional tips and lessons I’ve learned along the way...:
 
 That is about all I can come up with for now. FYI, I purchased my ring from Mark Turnowski at [Engagement Rings Direct](http://www.engagementringsdirect.com) and I think he did an absolutely fantastic job.  Jenny also thinks he did an amazing job.  I’ve never seen anyone fall in love with an inanimate object that fast. :)
 
-![Jenny's ring](/assets/img/jennyring.jpg)
+![Jenny's ring](/assets/images/jennyring.jpg)

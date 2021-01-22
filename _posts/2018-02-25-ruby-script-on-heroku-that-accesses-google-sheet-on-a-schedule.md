@@ -57,7 +57,7 @@ When you run the script for the first time, you'll be asked to go to a URL that 
 
 If your script runs successfully, you should see something like *"Number of rows in the Google Sheet document: 1"* printed out in the Terminal and see a timestamp in the Google Sheet document.
 
-![](/assets/img/ruby-heroku-google-sheets/1_record.png)
+![](/assets/images/ruby-heroku-google-sheets/1_record.png)
 
 Once you've confirmed that the script is working locally, let's commit your files and push them up to Heroku.
 
@@ -76,14 +76,14 @@ And if you look at the Google Sheet document, you should see that another timest
 
 Now, if we want *script.rb* to be executed every 10 minutes, you'll need to configure Heroku Scheduler. Go to: [https://dashboard.heroku.com/apps](https://dashboard.heroku.com/apps) > Select your application (eg, *scheduled-ruby-script*) > Click on *Configure Add-ons*.
 
-![](/assets/img/ruby-heroku-google-sheets/add_ons.png)
+![](/assets/images/ruby-heroku-google-sheets/add_ons.png)
 
 Under *Add-ons* > Type in: *Heroku Scheduler* > Select the *Provision* button. You should now see that the Heroku Scheduler add-on has been added. Click on the *Heroku Scheduler* link.
 
-![](/assets/img/ruby-heroku-google-sheets/heroku_scheduler.png)
+![](/assets/images/ruby-heroku-google-sheets/heroku_scheduler.png)
 
 Click on 'Add new job' and update the fields to have *ruby script.rb* run *Every 10 minutes*. Select the *Save* button.
 
-![](/assets/img/ruby-heroku-google-sheets/new_job.png)
+![](/assets/images/ruby-heroku-google-sheets/new_job.png)
 
 Give it some time (< 10 minutes) and if everything works, you should eventually see a new record get added to your Google Sheet document.

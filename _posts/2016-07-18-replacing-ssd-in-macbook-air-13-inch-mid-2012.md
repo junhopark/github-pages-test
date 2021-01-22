@@ -29,9 +29,9 @@ After a little bit of Googling, I came across numerous solutions, most of which 
 My laptop's been running with the new SSD for about 5 days now and it's been running just as well as before the SSD swap.  According to the Blackmagic Disk Speed Test app, it appears that the new drive is faster.
 
 BEFORE:
-![](/assets/img/disk_speed_test_before_2016-07-13-1936.png)
+![](/assets/images/disk_speed_test_before_2016-07-13-1936.png)
 
 AFTER:
-![](/assets/img/disk_speed_test_after_2016-07-15-630.png)
+![](/assets/images/disk_speed_test_after_2016-07-15-630.png)
 
 By the way, when I had opened up my MacBook Air, I discovered that the battery is easily swappable as well.  Exciting discovery!

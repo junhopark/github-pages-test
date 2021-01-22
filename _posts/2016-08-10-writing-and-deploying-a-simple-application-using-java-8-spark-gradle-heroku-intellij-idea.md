@@ -21,16 +21,16 @@ Create an account on [Heroku](https://www.heroku.com/) if you don't already have
 Create a new application in Heroku.  For the purposes of this blog post, I'm naming my new application: **hellooo-world**
 
 In IntelliJ IDEA, go to: *File* > *New* > *Project*.  Select *Gradle* from the left-hand side.  Underneath *Additional Libraries and Frameworks*, leave *Java* checked.  Everything else should be left un-checked.  Click *Next*.
-![](/assets/img/java-spark/pic_1.png)
+![](/assets/images/java-spark/pic_1.png)
 
 Set *GroupId* and *ArtifactId* to the application name you assigned above (ie, **hellooo-world**).  Leave *Version* at *1.0-SNAPSHOT*.  Click *Next*.
-![](/assets/img/java-spark/pic_7.png)
+![](/assets/images/java-spark/pic_7.png)
 
 Select the *Use auto-import* checkbox.  Set *Gradle JVM* to *1.8*.  Click *Next*.
-![](/assets/img/java-spark/pic_2.png)
+![](/assets/images/java-spark/pic_2.png)
 
 Set *Project location* to where you would like your project to live in and click *Finish*.  FYI, I'm setting mine to the following: **~/workspace/java\_spark\_projects/hellooo-world**
-![](/assets/img/java-spark/pic_8.png)
+![](/assets/images/java-spark/pic_8.png)
 
 Open up a Terminal window on your computer and log into Heroku:
 

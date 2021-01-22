@@ -13,13 +13,13 @@ I happened to have a spare domain - **theblameboard.com**. I'm going to use this
 
 2) If you don't have an account on [Heroku.com](https://www.heroku.com), go ahead and create one. During the sign-up process, when you're asked for your **Primary Development Language** - I don't know that it matters what you pick here but go ahead and pick **PHP**.
 
-![](/assets/img/heroku-godaddy/heroku_signup.png)
+![](/assets/images/heroku-godaddy/heroku_signup.png)
 
 3) Log into Heroku and click on the **Create New App** button. Give your application a name. I know the field says it's *optional* but I'd suggest you give it some kind of a name. I'm going to call my app **blame-board**.
 
 When I open my web browser of choice (Chrome) and go to [https://blame-board.herokuapp.com/](https://blame-board.herokuapp.com/) - I see the following:
 
-![](/assets/img/heroku-godaddy/new_site_heroku.png)
+![](/assets/images/heroku-godaddy/new_site_heroku.png)
 
 4) Follow the steps on [this page](https://devcenter.heroku.com/articles/heroku-command-line) and install the **Heroku CLI** (Command Line Interface).
 
@@ -67,7 +67,7 @@ If you see something along the lines of **"...https://blame-board.herokuapp.com/
 
 9) Go to [https://blame-board.herokuapp.com](https://blame-board.herokuapp.com) and verify that you can see the updates:
 
-![](/assets/img/heroku-godaddy/index_page.png)
+![](/assets/images/heroku-godaddy/index_page.png)
 
 10) Before you can assign a custom domain to your Heroku application you need to add a credit card to your Heroku account. To do this, go to: [https://heroku.com/verify](https://heroku.com/verify)
 
@@ -79,7 +79,7 @@ As of this writing (May 2017) - according to [this page](https://devcenter.herok
 
 Go back to the Heroku dashboard in the browser. Click on the **Settings** link at the top. If you scroll down a bit, you'll see an **Add domain** button. Click that. In the modal, type in the domain name you want associated with your site staring with **www** (this is very important!). For my example I added the following: **www.theblameboard.com**
 
-![](/assets/img/heroku-godaddy/heroku_domain.png)
+![](/assets/images/heroku-godaddy/heroku_domain.png)
 
 If you haven't added a credit card to your Heroku account yet you will get the following error message:
 
@@ -89,7 +89,7 @@ If you haven't added a credit card to your Heroku account yet you will get the f
 
 Scroll down a bit and look for where it has **Type = CNAME** and **Name = www**. Click the pencil icon to the right and update **Points to** to the URL of your Heroku application WITHOUT **https://www**. I entered **blame-board.herokuapp.com** and clicked the **Save** button.
 
-![](/assets/img/heroku-godaddy/cname_2.png)
+![](/assets/images/heroku-godaddy/cname_2.png)
 
 13) If someone attempts to go to your site without the **www** subdomain (theblameboard.com), you may (probably will) want to forward the user to www (www.theblameboard.com). In the GoDaddy screen - look for the **Forwarding** section. Click the **ADD** link next to **DOMAIN**. Set it to: **http://www.theblameboard.com**
 
@@ -110,7 +110,7 @@ When you log in click on the *Add New Monitor* button. This is what my settings 
 * URL = **http://www.theblameboard.com**
 * Monitoring interval: Anything less than 30 minutes.
 
-![](/assets/img/heroku-godaddy/uptimerobot.png)
+![](/assets/images/heroku-godaddy/uptimerobot.png)
 
 **And that's it!**
 
