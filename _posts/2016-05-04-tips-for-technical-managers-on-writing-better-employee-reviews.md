@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - management
 ---
 
 At Cappex.com, we do formal employee reviews twice a year and being that it's already May, I'm starting to think about writing reviews for folks on my team.  I don't particularly enjoy writing them (does anyone?) and while there's a lot of noise out there about increasing number of companies getting rid of their formal review process, I think formal employee reviews do play an important role.  Even though I hold 1-on-1 meetings with my direct reports at least once every 2 weeks and provide them with regular feedback, I think formal written reviews are helpful in that they summarize someone's performance over the course of 6 months and highlight items that are noteworthy--both good and bad.

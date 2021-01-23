@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - learning
 ---
 
 It's been quite awhile since my last blog post and I had a sudden itch to write about things I've been learning (mostly at/through work) over the course of, say, the last 6 months.

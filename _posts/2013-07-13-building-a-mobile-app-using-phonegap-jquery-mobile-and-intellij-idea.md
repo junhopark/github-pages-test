@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - phonegap
 ---
 
 After years and years of writing software for the web, I decided that it's about time I start tinkering around with mobile apps.  I decided to use the following tools to build my very first Android app:

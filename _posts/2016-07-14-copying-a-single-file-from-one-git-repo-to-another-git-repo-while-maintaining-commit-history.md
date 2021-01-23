@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - git
 ---
 
 Yesterday at work I had a need to copy a single from an existing Git repository to a newly created Git repository while maintaining all of the commit history associated with this file.  I did some Googling around and the most straight forward solution I came across was described on the following page: [http://blog.neutrino.es/2012/git-copy-a-file-or-directory-from-another-repository-preserving-history/](http://blog.neutrino.es/2012/git-copy-a-file-or-directory-from-another-repository-preserving-history/) (thank you!)

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - programming
 ---
 
 A skill that is often overlooked amongst developers and development managers is the ability to write good comments in code, which is understandable I suppose.  Comments don't (directly) cause bugs in software.  Comments aren't necessary in the same way that code is necessary in order to make software function.  And while many developers are often reviewed and critiqued on their ability to write good code, most developers and development managers (at least the ones I've worked for/with) don't care nearly enough about the comments that developers add to the code.  In my computer science studies during college, I don't remember a whole lot of emphasis being placed upon writing good comments.  I certainly don't remember any lectures or quizzes dedicated to teaching students how to write good comments in code.

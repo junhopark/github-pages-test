@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - music
 ---
 
 Almost every Sunday morning, I am needed to provide live background music, either on the guitar or the piano, at church worship services.  Usually this takes place during the offertory and times of corporate prayers. Since I’ve been doing this almost every Sunday for the last 12 years or so, it comes very naturally to me. It helps that improvising comes very naturally to me. Put some sheet music in front of my eyes and I will freeze up (reason why I disliked piano lessons so much...) but take them away from me and I can sit at the piano and play whatever comes to my head for hours... literally. I understand, however, that for a lot of musicians, it doesn’t come as naturally. They could be extremely skilled instrumentalists, but without the guidance of sheet music or chord charts, a lot of people tend to have a difficult time providing live background music, especially ones that would work well at worship services.

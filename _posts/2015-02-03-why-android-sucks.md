@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - android
 ---
 
 Android sucks.  At least my experience of it has.  Now, I'm NOT saying that Android-sucks-therefore-Apple-is-way-better.  All I'm saying is that I've had 3 Android devices so far and have had numerous really bad issues with each of them.  I've owned Samsung Galaxy Note 1 (had it for 2.5 years), Nexus 7 - 2013 version (had it for less than a week because of issues), and  Moto G (my current phone, which I've owned for about 3 months now).

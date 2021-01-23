@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - music
 ---
 
 After lunch @ Sweet Tomatoes with some friends I came back home and took a much needed nice, (too) long nap.  Fast forward a few hours and it was around 11: 30 pm…  and thanks to the nap I knew I wasn’t gonna go to bed for a little while.  So I picked up my guitar and started doodling around on it and I liked I was hearing so thought I’d record it.

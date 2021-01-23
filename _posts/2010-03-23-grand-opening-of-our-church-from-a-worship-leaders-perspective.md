@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - church
 ---
 
 This upcoming Sunday is going to be a pretty big & important day at the church I’m serving as a worship leader–it’s the grand opening day at our Vernon Hills location.  We moved into the [Sullivan Community Center (SCC)](http://www.vhparkdistrict.org/general/rentals/sullivan.asp "Sullivan Community Center") a few months back and had our first service there on Sunday, 1/24.   Since then we’ve mailed out tens of thousands of invitation mailers to homes within a 5-mile radius of the church and I’m told that we should expect around 100 – 200 visitors this Sunday.  We normally have about 50-60 adults at our Sunday service so 100+ visitors would be a huge deal for us.  We, as a congregation, have also been encouraged in these last few weeks to invite others to the grand opening and I am certainly hopeful that there will be many visitors present at church on Sunday as a result of personal invitations from our congregants.

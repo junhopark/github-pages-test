@@ -1,6 +1,8 @@
 ---
 title: My Thoughts After Being VP of Technology For Six Months
 layout: posts
+tags:
+ - management
 ---
 
 In July of last year, I stepped into my role as the VP of Technology at <a href="https://www.cappex.com" target="_blank">Cappex</a> where I oversee software engineering, QA, operations, and corporate IT. Now that I've been in this role for 6 months, I thought I'd take some time to jot down my thoughts about my experience thus far.

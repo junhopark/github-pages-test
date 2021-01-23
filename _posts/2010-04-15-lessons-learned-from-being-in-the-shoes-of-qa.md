@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - testing
 ---
 
 At [work](http://www.cleartrial.com "ClearTrial") we have a huge product release coming up very soon.  There are a lot of new features to the application, which means that there has been a ton of changes to the code, which has meant a lot of hours for testing.  As a result, I’ve been having to help test–in volumes I don’t think I have yet in my software development career.  I’ve had to run the application through a variety of test scenarios as well as going back to bugs and verifying that they, in fact, have been fixed.  In the last week or so, that’s where 90% of my time has been spent.  While I’m a little sad about not being able to code nearly as much as I’d like to at work, I’m glad for the lessons I’ve been able to learn in my very brief stint as a QA personnel/software tester.  One thing I’ve been realizing is just how incredibly expensive writing buggy code is.

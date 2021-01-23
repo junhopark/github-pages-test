@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - fitness
 ---
 
 Ever since my son was born in late June, it's been a challenge trying to find time to work out. Since I record every one of my workout sessions, I thought I'd take a few minutes to jot down what my workout frequency has been, before Vs. after the baby.  Here are the results:

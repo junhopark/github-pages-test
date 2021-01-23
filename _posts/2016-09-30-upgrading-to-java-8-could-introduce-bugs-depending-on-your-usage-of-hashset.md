@@ -1,6 +1,8 @@
 ---
 title: Upgrading to Java 8 could introduce bugs depending on your usage of HashSet
 layout: posts
+tags:
+ - java
 ---
 
 If you're looking to upgrade from Java 7 to Java 8 you may not be aware that there are some rather significant differences to how ordering is maintained for HashSet and HashMap in Java 8.  This may not matter to you if you're confident that your code base is free of code that assumes HashSet and HashMap is relied on to maintain order.  Even though the Java documentation clearly states that both [HashSet](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) and [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) make no guarantees as to the order of the elements AND that the order will remain constant over time, it's not inconceivable that some developers may not be aware of this.  As I was writing this blog post and playing around with HashSet in Java 7, I could see how naive developers could be fooled (very much dependent on the elements that are contained in the HashSet) into believing that HashSet maintains order that's consistent with something like an ArrayList.

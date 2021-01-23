@@ -1,5 +1,8 @@
 ---
 layout: posts
+tags:
+ - ruby
+ - heroku
 ---
 
 Decided to ditch PHP + WordPress + Lithium Hosting for Ruby on Rails + Postmarkdown + Heroku.

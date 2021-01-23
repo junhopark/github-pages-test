@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - ruby
 ---
 
 As I noted in my blog post from 9/15, I decided to recreate my site using Ruby on Rails + Postmarkdown and deploy to Heroku.  FYI, my site is a super simple single-page site with a blog.

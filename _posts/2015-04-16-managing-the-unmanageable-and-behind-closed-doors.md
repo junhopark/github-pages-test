@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - management
 ---
 
 *Whoops.  I started working on this blog post all the way back in mid-February and it's now mid-April.  Life has been busy.  Work is busy.  Being a dad to a 9-month old is filled with busyness.  My wife & I are in the middle of selling our home and buying a home (which is something I do not want to go through again...).  Anyhow, let's see if I can wrap up this little blog post...*

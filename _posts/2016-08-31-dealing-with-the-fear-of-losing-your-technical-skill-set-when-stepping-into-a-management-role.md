@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - mangement
 ---
 
 When I was promoted to my current role of VP of Technology a little over 2 years ago, one of my biggest fears was that my technical chops would quickly deteriorate.  I had been writing code since I was in grade school and after having done it for 20+ years, I had gotten to be decent at it.  It would be such a shame, I thought, if all the hours, money, and energy I had invested into becoming a developer would go to waste because of the lure of becoming an "executive".  I also feared what would happen if 6 - 12 months after having become a VP, it turned out that I was either really bad at my new job or hated it (or both) AND my technical skill had rusted to the point that I couldn't find another job as a developer.  I would then suffer and my wife and my son would suffer and my future generations would suffer...  I know I'm exaggerating a bit here but the fear was real.  Despite my fears, however, I decided to accept the promotion because of 2 main reasons: Becoming the top technologist for a company was a career aspiration of mine and the opportunity was simply too great to pass up.

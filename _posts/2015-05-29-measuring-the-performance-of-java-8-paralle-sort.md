@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - java
 ---
 
 I was curious as to the performance improvement of Arrays.parallelSort over Arrays.sort.

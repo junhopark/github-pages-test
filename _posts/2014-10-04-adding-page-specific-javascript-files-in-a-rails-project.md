@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - ruby
 ---
 
 Being that I'm a Ruby on Rails newbie, I was looking for a way to add page-specific JavaScript files on a Ruby on Rails (Rails 4) project.  Here's one way to accomplish this and I think it makes sense & keeps things simple & clean.

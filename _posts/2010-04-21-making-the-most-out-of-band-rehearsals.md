@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - music
 ---
 
 Band rehearsals–some love ‘em, some hate ‘em, but there’s no denying that they are very much necessary, even for bands that are comprised of phenomenal musicians.  Since 1997, I’ve had to partake in many band rehearsals–about 700 or so (a very rough estimate)–99.9% of them having been with bands that are associated with churches or para-church organizations.  I wanted to take some time to write down various tips on making the most out of band rehearsals–tips that have (and still do) helped me and hopefully will help you/your band/your church as well.

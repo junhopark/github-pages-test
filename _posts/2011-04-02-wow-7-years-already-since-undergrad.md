@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - career
 ---
 
 This past Wednesday, I paid a visit to my alma mater ([UIC](http://www.uic.edu "University of Illinois at Chicago")) to be among the panelists to share my post-college experiences of working in the corporate world.  It was part of an “All Campus Worship” event that was being hosted by a number of student Christian organizations on campus and since I was heavily involved with Asian American InterVarsity all throughout my undergrad years and as such, there was absolutely no way I could not accept invitation to take part in this event.  My fiancée also took part in this event as a fellow panelist which was pretty neat.

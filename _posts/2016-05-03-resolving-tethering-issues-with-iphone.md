@@ -1,6 +1,8 @@
 ---
 title: Resolving Tethering Issues With iPhone
 layout: posts
+tags:
+ - iphone
 ---
 
 I spend roughly an hour and a half Monday through Friday commuting to and from work and my laptop is tethered to my phone probably 90% of the time I'm on the train.  I've never had issues tethering from my MacBook Air or iPad Mini but I've had consistent issues tethering 2 different MacBook Pros to the iPhone.  I would turn on personal hotspot on my iPhone but when trying to connect to it via Wi-Fi from my MacBook Pro, it would almost never find the hotspot.  And without finding the hotspot, my laptop would refuse to connect to the iPhone.  This had caused me to tether via Bluetooth, which works, but it is terribly slow.

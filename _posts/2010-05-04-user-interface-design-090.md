@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - ux
 ---
 
 Do you remember how in college there were classes that were actually below 100-level?  The classes that some folks were required to take but they didn’t count for any credits?  Well, in trying to come up with a decent title for this blog post, I thought I’d throw in a __090__ at the end of the title there since this post will be, in some ways, kinda like those sub-100 level classes.  Simple (or simplistic, even), easy, basic-knowledge kinda stuff.

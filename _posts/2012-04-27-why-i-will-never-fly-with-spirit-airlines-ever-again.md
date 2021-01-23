@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - travel
 ---
 
 I shall never ever fly Spirit Airlines again.  My reasons why?

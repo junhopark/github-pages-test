@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - travel
 ---
 
 I arrived in San Francisco last night with Jenny and a friend of ours at around 10:30 local time to attend Jenny’s friend’s wedding which takes place later today.  I was so extremely dead tired last night and was thinking that I’d be able to sleep in until around 7:30 am, but no, I woke up at around 5:15 and instead of fighting myself to fall back asleep, I thought I’d get up, iron my dressy clothes I brought w/ me, check into a Starbucks located across the street from the hotel, and create some free time for myself.

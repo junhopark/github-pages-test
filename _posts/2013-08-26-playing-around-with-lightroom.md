@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - photography
 ---
 
 I thought I'd give Adobe Lightroom a try and play around with editing some pictures.  Well, here are the results.

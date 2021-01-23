@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 I've been busy doing a lot of phone screens and interviews as of late.  Actually, I've been doing a lot of interviewing during my time at Cappex.  Since joining the company in July of 2012, I've done over 400 phone screens & interviews.  I'm certain I've looked at over 1,000 resumes during my time at Cappex so far.  Anyhow, I thought I'd jot down a list of interview & phone screen tips.  Every single one of these items are things I've seen candidates do in the past.  These items are in no particular order.

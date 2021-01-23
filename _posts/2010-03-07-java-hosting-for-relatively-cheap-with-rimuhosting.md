@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - java
 ---
 
 I have a few minutes to spare while my Ubuntu workspace is being patched up with some security updates so I thought I’d share a little blurp or two about [RimuHosting](http://www.rimuhosting.com/ "RimuHosting") which is the hosting service I’m using to host www.junhopark.com as well as www.moodyshoerepair.com (my parents’ shoe repair business located in Joliet, IL–go check ‘em out if you need shoe repair done!  I can almost guarantee you once you go get your shoes repaired, you’ll be thinking to yourself why did I not think of this before??).

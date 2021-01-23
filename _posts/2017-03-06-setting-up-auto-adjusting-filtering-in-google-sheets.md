@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - google sheet
 ---
 
 Once I built out my custom dashboard using Google Sheets (read [my blog post on this topic](https://junhopark.com/posts/2017/02/17/building-a-custom-dashboard-using-google-sheets-and-sheetsu)) I decided that I wanted to look at the data for only the last 30 days.  While it's important that I have historical data dating back to when I initially put the dashboard together, on most days, I wanted to see quick snapshots of various trends for only the last 30 days.

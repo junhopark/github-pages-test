@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - programming
 ---
 
 One of the main purposes for keeping this blog is for me to think through and reflect upon things and to remind myself of the lessons that I’m learning.  I keep myself pretty busy (there never seems to be enough hours in a day) and from time to time (more often than I would like) I will go through an entire day without having reflected upon what I’m doing and how I can improve upon my work.

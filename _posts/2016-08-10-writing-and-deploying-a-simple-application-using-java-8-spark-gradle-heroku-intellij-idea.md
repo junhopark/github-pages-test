@@ -1,6 +1,9 @@
 ---
 title: Writing and deploying a simple application using Java 8 + Spark
 layout: posts
+tags:
+ - java
+ - spark
 ---
 
 I recently discovered [Spark](http://sparkjava.com/), which advertises itself as a "micro framework for creating web applications in Java 8 with minimal effort".  Like many developers, I'm a sucker for using the simplest tools possible to build and deliver applications so I gave Spark a try.  I wanted something that runs not only on my laptop but an application that I can easily deploy.

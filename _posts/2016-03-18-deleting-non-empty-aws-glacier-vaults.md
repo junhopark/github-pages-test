@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - aws
 ---
 
 I had a couple of AWS Glacier vaults that I had been meaning to permanently delete for awhile.  When I tried deleting them via the AWS dashboard, I got the following error message:

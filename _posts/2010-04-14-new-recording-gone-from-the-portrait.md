@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - music
 ---
 
 Over the weekend I started re-recording a song which I had written a few years back.  Vocals, acoustic guitar, electric guitars, bass, keyboards, drums-via-keyboard all recorded in my room.

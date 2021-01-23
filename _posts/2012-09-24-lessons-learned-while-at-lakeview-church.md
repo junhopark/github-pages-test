@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - church
 ---
 
 This coming Sunday will be my last Sunday at Lakeview Church.  I've been a part of this church since summer of 2006 and I've been blessed to experience such a fulfilling 6 years of my life at this church.  Now, as to why my wife and I have decided to leave Lakeview - it really came down to the following 2 reasons: 1. Church (the building) is too far (~1 hour drive each way) 2. Church community (the people) is too far from us.  We wanted to find a church closer to home and be able to invest more of our time, energy, and resources in a church community that's closer to home.

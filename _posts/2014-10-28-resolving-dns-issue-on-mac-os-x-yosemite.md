@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - mac
 ---
 
 I upgraded both my MacBook Air and MacBook Pro to Yosemite over the weekend and I saw that both my laptops were unable to connect to internal systems at the office.  For instance, I wasn't able to access my QA server by going to *http://qa.cappex.local*.  I, however, was able to access the same server by going to *http://qa/*.  Also, I saw that while I wasn't able to ping qa.cappex.local, nslookup worked just fine.

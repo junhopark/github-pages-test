@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - conference
 ---
 
 Here are my notes from [ChicagoWebConf 2012](http://chicagowebconf.org/) (Oct 6, 2012).

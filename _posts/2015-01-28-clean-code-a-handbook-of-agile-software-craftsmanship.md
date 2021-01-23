@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - programming
 ---
 
 Something I'd like to start doing in 2015 is to write a blog post after finishing a book, provided that there are at least a few key takeaways.  I'm thinking that doing this will help me process the book at a deeper level and help me get more out of reading books.  I want the books that I read to make a visible impact in my life and I think writing mini "book report" blog posts will help me accomplish that.  I'm currently in the midst trying out <a href="https://www.safaribooksonline.com/" target="_blank">Safari Books Online</a> and the very first book I decided to read was a book that I've had on my Amazon Wish List for a very long time: **Clean Code: A Handbook of Agile Software Craftsmanship written by <a href="https://twitter.com/unclebobmartin" target="_blank">Uncle Bob</a>**.

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - engineering levels
 ---
 
 Lately I've been thinking about the simplest possible ways to distinguish between different levels of engineers, which are typically something along the lines of:

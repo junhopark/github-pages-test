@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - ruby
 ---
 
 I saw in Google Analytics that I've been getting a lot of hits on junhopark.com/index.php, which isn't a valid page.  I decided that it'd be best to set up a 301 permanent redirect from /index.php to /.

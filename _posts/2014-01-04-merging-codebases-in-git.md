@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - git
 ---
 
 A couple of weeks ago, I had to merge one codebase into another codebase and after a lot of searching for solutions on the web, I came across a solution that has worked well for my team.  By following these steps, we were able to merge the two codebases and were able to retain the commit history of both codebases (without having to execute ***git log --follow***).

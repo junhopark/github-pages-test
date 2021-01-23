@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - gratitude
 ---
 
 I've got a lot to be thankful for.  Here are some that stand out for me:

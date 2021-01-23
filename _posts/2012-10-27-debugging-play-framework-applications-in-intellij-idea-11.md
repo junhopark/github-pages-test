@@ -1,5 +1,8 @@
 ---
 layout: posts
+tags:
+ - intellij idea
+ - play framework
 ---
 
 I just spent 30 minutes on Google trying to figure out how to debug my Play application in IntelliJ when it should've taken me 1 minute, tops.

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 Earlier today, I had a web design candidate who informed us that he would be able to provide us with an up-to-date portfolio of his design work **for a flat fee**.
 

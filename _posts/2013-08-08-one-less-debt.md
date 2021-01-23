@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - personal finance
 ---
 
 Just paid off my student loans, which took me about 9 years and 3 months.  I was planning on letting it drag on and

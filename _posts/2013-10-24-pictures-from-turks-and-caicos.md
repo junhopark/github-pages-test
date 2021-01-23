@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - travel
 ---
 
 Here are some pictures I took while I was in Turks and Caicos earlier this month with my wife.

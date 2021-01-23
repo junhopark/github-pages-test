@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - music
 ---
 
 My first album *Acoustic Worship* is now available for [purchase on CDBaby.com](https://www.cdbaby.com/cd/junhopark)! Recording an album is something I've wanted to do for a *very* long time and I'm glad that I was able to complete this project.  I started the recording process in April and it was completed shortly before my son was born in June.  All of the instrument (acoustic guitar, classical guitar, keyboard, cajon, and the egg shaker, of course) and vocal tracks were recorded by me in my basement studio, which were then mixed and mastered by my friend Bernie Chae.

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - gradle
 ---
 
 Earlier today I attend a [webinar](http://www2.gradle.com/l/68052/2016-08-02/86lgn7) hosted by Gradle, Inc. where **Gradle Build Scan** was introduced.  If you're already using Gradle as the build tool for your project, setting up Gradle Build Scan will take you no more than 2 minutes.  All I had to do was to follow the steps outlined in [https://scans.gradle.com/setup/step-1](https://scans.gradle.com/setup/step-1), which involves opening up your *build.gradle* file and adding the following at the top:

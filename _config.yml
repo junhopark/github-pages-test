@@ -16,7 +16,7 @@
 title: Junho Park
 email: junho@junhopark.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My thoughts on software, managing people, music, God, and life
+  My thoughts on software, being a people manager, music, life, and God
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
@@ -26,7 +26,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title.html
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -72,6 +72,9 @@ author:
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://linkedin.com/in/junhopark"
 
 footer:
   links:
@@ -84,6 +87,9 @@ footer:
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    # - label: "LinkedIn"
+      # icon: "fab fa-fw fa-linkedin"
+      # url: "http://linkedin.com/in/junhopark"
 
 defaults:
   # _posts
@@ -97,6 +103,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -106,8 +113,8 @@ defaults:
       author_profile: true
 
 category_archive:
-  type: liquid
-  path: /categories/
+ type: liquid
+ path: /categories/
 tag_archive:
   type: liquid
   path: /tags/

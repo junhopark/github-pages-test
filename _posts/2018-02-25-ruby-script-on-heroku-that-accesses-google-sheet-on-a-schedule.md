@@ -1,5 +1,8 @@
 ---
 layout: posts
+tags:
+ - google sheet
+ - heroku
 ---
 
 I recently had a need to write a simple script that writes to a Google Sheet document once a day. I decided to write the script in Ruby and host it on Heroku since I didn't want my laptop to be on in order for the script to run. After spending some time Googling & some trial and error, I came up with something that works and is quite simple. For the purposes of this blog post, I will write a Ruby script that accesses a newly created Google Sheet document and does the following:

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 In the last several weeks I've had the opportunity to speak with numerous companies as a job candidate. While the experience is still fresh in my mind, I thought now would be a good time for me to jot down my observations as a job seeker and note things I would like to practice in my future recruiting & hiring efforts.

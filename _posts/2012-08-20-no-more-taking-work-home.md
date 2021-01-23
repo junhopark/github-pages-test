@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - cappex
 ---
 
 It’s been about 6 weeks since I started working at [cappex.com](http://www.cappex.com "Cappex.com") and while I’ve been really enjoying the work, I’ve also been guilty of bringing work home.  I’ve often been working on the train, and then turning the computer back on at home and doing some additional work.

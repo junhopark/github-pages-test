@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - career
 ---
 
 Since landing my first programming job when I was a junior in high school until now, I recently realized that I've now worked at 10 different companies, including my current employer.  I thought I'd take some time to reflect on lessons learned from each of the places I've worked at (from oldest to most recent):

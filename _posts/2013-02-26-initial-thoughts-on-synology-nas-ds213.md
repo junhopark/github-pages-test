@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - nas
 ---
 
 I purchased a Synology NAS DS213 last week and here are my thoughts after using this device for about a week now:

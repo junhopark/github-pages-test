@@ -1,5 +1,9 @@
 ---
 layout: posts
+tags:
+ - intellij idea
+ - heroku
+ - jetty
 ---
 
 I noticed that Heroku supports Java applications running on Jetty and since I've never worked with Jetty previously,

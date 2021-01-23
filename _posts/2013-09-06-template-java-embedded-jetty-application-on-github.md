@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - jetty
 ---
 
 I've been meaning to get something up on GitHub and here it is at last:

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - php
 ---
 
 I got hold of some really nice looking single page website templates earlier last week (from [here](http://www.mightydeals.com/deal/parallax-templates.html)) so I thought I'd go ahead and redo the website for my parents' shoe repair business.  I decided to host the site on Heroku (for free, of course).

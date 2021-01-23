@@ -1,5 +1,8 @@
 ---
 layout: posts
+tags:
+ - subversion
+ - git
 ---
 
 Last Thursday, my team made a successful transition from Subversion to Git.  Here are some thoughts after having been on Git as a team for about a week now:

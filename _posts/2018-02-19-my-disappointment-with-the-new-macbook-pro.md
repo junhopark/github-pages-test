@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - mac
 ---
 
 When I started at Braintree I was given a new 2017 15" MacBook Pro with Touch Bar. It's a really nice laptop overall and I don't mean to sound ungrateful... but in the last few weeks that I've been using it I've also found myself disappointed with it. Here's a list of my disappointments with the laptop:

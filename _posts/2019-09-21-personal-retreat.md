@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - retreat
 ---
 
 I drove about 2 hours west to Stockton, IL - to a place called [Christ in the Wilderness (CITW)](http://citwretreat.com), to spend a few days (Friday evening - Sunday morning) to myself to pray, reflect, meditate, journal, hike, and rest my too-busy mind.

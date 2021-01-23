@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - gratitude
 ---
 
 Last 2 weeks at work have been rough.  This most recent sprint as well as the release ended up being much more difficult than what my team is normally used to.  There were numerous production issues that had to be dealt with right away and of these, one of the issues required several folks on my team (including myself) to stick around at the office into the evening hours and another issue caused me to work pretty much all day on Saturday.  There were some other out-of-the-ordinary stressors at work which I won't get into here but yeah, they have been difficult & stressful 2 weeks.  And it doesn't help that my 3-month old is still far from sleeping through the night and I don't remember the last time I woke up feeling rested and refreshed.  I am constantly tired.  And to add to all this, my wife's been sick for the past week.

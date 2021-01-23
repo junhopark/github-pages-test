@@ -1,6 +1,9 @@
 ---
 title: A few gotchas when setting up Jekyll + GitHub Pages + custom domain
 layout: posts
+tags:
+ - jekyll
+ - github
 ---
 
 I just finished "converting" my music website from Heroku to utilizing [Jekyll](http://jekyllrb.com/) + [GitHub Pages](https://pages.github.com/).  And by "converting", I mean I killed off a project that was set up using Ruby on Rails and decided to set up an entirely new site with a completely different look & feel (rather ugly before and rather ugly now, I know...) built using Jekyll and GitHub Pages.  I did this because I wanted to start writing blog posts on my music site and the existing site wasn't really set up for me to write blog posts on.  Plus, I wanted to give Jekyll a try.

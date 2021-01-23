@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 A few days ago, I phone screened a QA Manager candidate that ended up being extremely memorable.  It went something like this:

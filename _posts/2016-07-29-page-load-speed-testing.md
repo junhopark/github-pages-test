@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - cloudflare
 ---
 
 I decided to conduct some simple page load speed testing.  I hope the following info might be of some value to some folks out there.

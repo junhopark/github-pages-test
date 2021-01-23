@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - conference
 ---
 
 I recently returned home from attending [Deconstruct](https://www.deconstructconf.com/) along with a bunch of my co-workers. I thought I’d jot my thoughts down while the experience is still fresh on my mind.

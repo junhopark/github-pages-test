@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - management
 ---
 
 One of the things I hate the most about my job is having to deal with losing good people on the team.  I run a small organization (currently 10 people including myself) and there's very limited redundancy in terms of responsibilities, roles, and skill set.  Losing one individual often means that I lose a significant portion of the team's collective knowledge.  It's painful when all I have is 4 software engineers on the team and one of them turns in his resignation letter.  Or when all I have is 2 QA engineers and I realize that I'll be at 50% QA capacity for the foreseeable future.  Just a few weeks ago, my one and only system administrator on the team told me he would be leaving the company in 2 weeks and when I found out, it just about ruined the rest of the week for me.  Of course, I'm well aware of the fact that everyone on my team will eventually leave the company at some point but... it still comes as a surprise (the bad kind) to me when I'm the receiving end of a 2-week notice.  Nowadays it appears that having tech employees stick around for more than 2 years is considered a long time.

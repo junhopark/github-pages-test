@@ -1,6 +1,8 @@
 ---
 title: Looking To Start Or Join a Support Group Of CTOs And Engineering VPs In Chicago
 layout: posts
+tags:
+ - management
 ---
 
 Here's something I just posted on Hacker News - [https://news.ycombinator.com/item?id=11643390](https://news.ycombinator.com/item?id=11643390)

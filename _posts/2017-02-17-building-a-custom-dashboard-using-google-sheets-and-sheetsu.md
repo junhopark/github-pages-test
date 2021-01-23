@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - google sheet
 ---
 
 I was looking for a way to build a custom dashboard that's relevant for me and the team (especially my DevOps team), which at the very least, includes the following information:

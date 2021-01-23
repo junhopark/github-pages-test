@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - family
 ---
 
 My wife and I met through a (very) random suggestion from a mutual friend 3 and a half years ago.  It was suggested to us that we should meet up, get to know each other a little bit and maybe, just maybe it might work.  So we met soon thereafter.  It was the first blind date for both of us and as most blind dates go, it was a bit awkward and I certainly don't remember seeing any sparks flying in the air.  We ended our first date on a very awkward handshake (yep, my fault).  At the end of the date, though, something in me thought that I should see her at least once more.  So I asked.  And that's one of the very best decisions I've made in my life.

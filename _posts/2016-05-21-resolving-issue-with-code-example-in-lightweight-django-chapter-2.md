@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - django
 ---
 
 I've been reading through the book 'Lightweight Django' by Julia Elman and Mark Lavin and I was having a lot of trouble getting the final example in Chapter 2 to work.  The local server would start up but when going to http://localhost:8000 I would encounter the following error:

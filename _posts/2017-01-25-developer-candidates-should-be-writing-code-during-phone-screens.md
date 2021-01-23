@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 I think this is going to be a pretty short post.

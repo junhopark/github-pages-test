@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 Earlier this year I decided that it’s time for me to look for another opportunity outside the company.  The company executives decided on being acquired by Oracle and my decision to leave the company had a lot to do with the fact that I was less than enthused about working for Oracle.  Thankfully for me, my job search coincided with what I think is a pretty darn good market for software developers, and I was able to conclude my job search in a relatively short period of time.  It’s been 2 and half weeks now at my new job and I’m loving it so far.

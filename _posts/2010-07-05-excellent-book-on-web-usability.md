@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - ux
 ---
 
 One of the things I’ve been enjoying about work since I made the switch last November is being able to get my hands dirty with front-end web development and being able to work on things that directly impact the usability of the application.  It’s been fun designing and writing code that will allow our clients to have an easy & efficient way of interacting with our software.  It’s been challenging as well–such as trying to make the front-end behave the way I want it to in IE 6.  I can’t believe some (a whole lot) people still use IE 6 but there’s not much I/we can do about it, at least for the moment.

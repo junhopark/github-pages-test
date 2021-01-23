@@ -1,6 +1,8 @@
 ---
 title: Replacing SSD in MacBook Air (13" mid-2012)
 layout: posts
+tags:
+ - mac
 ---
 
 I was running low on my 13" mid-2012 MacBook Air's SSD, which had me pretty concerned.  Thankfully I recently discovered that the SSD inside this thing is replaceable.  After some Googling, my SSD options came to [OWC Aura 6G](https://eshop.macsales.com/shop/ssd/owc/macbook-air/2012) and [Transcend JetDrive](https://www.amazon.com/gp/product/B00JQXT5RG).  I spotted more negative reviews with the OWC drive Vs. the Transcend drive so in the end, I decided to go with Transcend and get the 960 GB version.  It cost me $448.59 on Amazon.

@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - cappex
 ---
 
 Yesterday I got to represent [Cappex](http://www.cappex.com "Cappex.com") at a career fair that was being held at the Illinois Institute of Technology in Chicago.  I had only attended a career fair once before (as a college student) and being that this was my first time going as an employer, I wasn't quite sure what to expect.  All I knew was that 1) I was there in search of interns who might be a good fit for my team and 2) I was going to be talking to A LOT of students.

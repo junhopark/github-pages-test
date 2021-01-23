@@ -1,6 +1,8 @@
 ---
 title: Childbirth Thoughts From One Man's Perspective
 layout: posts
+tags:
+ - family
 ---
 
 NOTE - This is a blog post that I started writing when my wife and I were at the hospital this past August waiting for our daughter to be born.  I started working on this post on Friday, 8/5/2016 at 12:07pm and my daughter was born at 4:13pm that same day.  It's been sort of a crazy & a tiring ride ever since her birth so I've forgotten to make my final edits and post this thing.  I was a bit hesitant about posting it since it has very little to do with the overall theme of my blog but you know what?  This is by far the most significant experience I went through in 2016 and I think it's only right that I post this.  Plus, I want to honor & give mad props to my wife for the absolutely **amazing** work she did in bringing our daughter into this world.  Love you.

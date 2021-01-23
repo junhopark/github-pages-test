@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - hiring
 ---
 
 Yep, hiring is tiring.  Very much so.

@@ -1,6 +1,9 @@
 ---
 title: Create a Website On a Custom Domain for Practically Free With Heroku and GoDaddy
 layout: posts
+tags:
+ - heroku
+ - godaddy
 ---
 
 I've had several people ask me over the years what's a good & cheap way to set up a static or a dynamic website on a custom domain. One of the best things about writing a blog post is that instead of having to repeat myself I can point people to a blog post that I've written.

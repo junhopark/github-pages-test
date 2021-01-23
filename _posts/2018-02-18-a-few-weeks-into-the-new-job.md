@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - braintree
 ---
 
 I've been at Braintree now for almost 3 weeks and I can't believe it's only been a few weeks because I've experienced a ton of new things and have met a lot of people and time sure seems to go by much more slowly when you're soaking in new experiences. And the older I get--especially as a father of 2 young children who are always growing up way too fast in my eyes--I'm finding that it's perfectly OK with me if time seems to go really s-l-o-w-l-y.

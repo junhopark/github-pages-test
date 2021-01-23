@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - programming
 ---
 
 So... I’m scrounging around the internet looking for some TDD-related tidbits and I came across the following at [www.artima.com](http://www.artimar.com "The Artimar Developer Community").

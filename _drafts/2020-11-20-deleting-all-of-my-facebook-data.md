@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+  - facebook
 ---
 
 For awhile I had been contemplating either deleting my Facebook data or deleting my Facebook account altogether and after reading Christopher Wylie's book on Cambridge Analytica (Mindf*ck: Cambridge Analytica and the Plot to Break America) I decided it was finally time to pull the trigger on this. I decided that I'll delete all of my Facebook data and... perhaps somewhere down the road I'll decide to delete my Facebook account completely.

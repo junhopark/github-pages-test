@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 I've done what I think is an insane amount of phone screens since December (well over 100) and in the last few weeks there's something I've been noticing when I call candidates for their initial phone screen.  The more I think about it the more that it has surprised and even bothered me.  It is this: When I call candidates the most common greeting I get is ***"Hello?"***

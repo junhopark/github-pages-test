@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - interviewing & hiring
 ---
 
 Coming into 2017 I had a lofty goal of hiring 10 people by the end of February. 10 is the number of people I had hired up to the end of 2016 when I had been in my role as the VP of Technology for 2 and a half years. Hiring 10 people in 2 and a half years was challenging enough and I knew that hiring 10 people in 3 months--between December, 2016 - February, 2017 would be *really* challenging.

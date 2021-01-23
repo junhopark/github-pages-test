@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - android
 ---
 
 I wish I had waited to get the new iPhone (whatever is gonna come after the 4S) instead of picking up the Galaxy Note.

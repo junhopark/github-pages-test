@@ -1,5 +1,7 @@
 ---
 layout: posts
+tags:
+ - cappex
 ---
 
 A very large chunk of my life from the very beginning of this year until the end of July was focused on launching a [new college application product](https://www.cappex.com/hq/app/learn). Thanks to the hard work of every person on my team (as well as many others in the company) we were able to launch on 8/1, which is the deadline that we had been aiming for and my gosh - it felt GREAT to get this thing launched and get it launched on time. Sure, there's a lot of things that could've gone better and more smoothly during the project but there's also a lot of things that could've gone wrong and in the end - I'm real proud of the work that my team has been able to accomplish. It was a project that took months of planning, involved having to double the size of my team within a relatively short period of time (9 people in about 3 months), and required that every individual work extremely hard (a lot of late nights, weekend work, catered lunches, etc.). When I look back on what my team was able to accomplish during the first 7 months of the year - I'm real proud. This has been one of the most memorable projects that I've been a part of and I'm grateful to have had the opportunity to take part in it.
