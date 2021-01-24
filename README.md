@@ -1,9 +1,10 @@
 # Site TODOs
 
-* Double check site description
+* Set up 301 redirects from old blog posts?
 * Modify blog post titles as needed
 * Favicon
 * Google Analytics
+* Advertisement
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-logo
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-title
 
