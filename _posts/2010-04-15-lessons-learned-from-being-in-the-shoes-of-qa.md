@@ -1,4 +1,5 @@
 ---
+title: Lessons Learned From Being In The Shoes Of QA
 layout: posts
 tags:
  - testing

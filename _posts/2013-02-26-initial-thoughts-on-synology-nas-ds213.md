@@ -1,4 +1,5 @@
 ---
+title: Initial Thoughts On Synology NAS DS213
 layout: posts
 tags:
  - nas

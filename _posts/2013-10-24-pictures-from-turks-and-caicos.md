@@ -1,4 +1,5 @@
 ---
+title: Pictures From Turks and Caicos
 layout: posts
 tags:
  - travel

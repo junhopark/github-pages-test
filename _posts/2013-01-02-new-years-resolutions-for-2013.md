@@ -1,4 +1,5 @@
 ---
+title: New Year's Resolutions For 2013
 layout: posts
 ---
 

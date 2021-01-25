@@ -1,4 +1,5 @@
 ---
+title: Selenium WebDriver and JavaScript Confirmation Dialog
 layout: posts
 tags:
  - testing

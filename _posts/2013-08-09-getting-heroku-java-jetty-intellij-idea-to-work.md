@@ -1,4 +1,5 @@
 ---
+title: Getting Heroku + Java + Jetty + IntelliJ IDEA to Work
 layout: posts
 tags:
  - intellij idea

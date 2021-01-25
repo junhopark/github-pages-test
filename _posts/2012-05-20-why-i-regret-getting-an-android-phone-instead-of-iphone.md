@@ -1,4 +1,5 @@
 ---
+title: Why I Regret Getting an Android Phone Instead of iPhone
 layout: posts
 tags:
  - android

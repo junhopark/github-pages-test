@@ -1,4 +1,5 @@
 ---
+title: Stuff I've Been Learning
 layout: posts
 tags:
  - learning

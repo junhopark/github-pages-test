@@ -1,4 +1,5 @@
 ---
+title: Debugging Play Framework Applications in IntelliJ IDEA 11
 layout: posts
 tags:
  - intellij idea

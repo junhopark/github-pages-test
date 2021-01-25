@@ -1,4 +1,5 @@
 ---
+title: Adding Page-specific JavaScript Files in a Rails Project
 layout: posts
 tags:
  - ruby

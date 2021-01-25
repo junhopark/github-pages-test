@@ -1,4 +1,5 @@
 ---
+title: Deleting Non-empty AWS Glacier Vaults
 layout: posts
 tags:
  - aws

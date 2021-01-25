@@ -1,4 +1,5 @@
 ---
+title: New Music: Lullaby (Instrumental)
 layout: posts
 tags:
  - music
