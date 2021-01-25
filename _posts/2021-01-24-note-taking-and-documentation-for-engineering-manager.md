@@ -2,7 +2,7 @@
 layout: posts
 title: Note-taking and Documentation for Engineering Managers
 tags:
- - engineering management
+ - management
 ---
 
 During my time at Venmo as an engineering manager (since October of 2019) there are some note-taking / documentation things that I started doing that I hadn't done before in my previous engineering manager gigs. In looking back I'm glad I started doing these things and would highly encourage others to consider doing them for your team as well. These are simple practices that don't take up a lot of time and the hardest part of all this, really, is to just *remember* to do them.

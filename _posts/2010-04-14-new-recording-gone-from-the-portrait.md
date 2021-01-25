@@ -1,4 +1,5 @@
 ---
+title: New Recording: Gone From The Portrait
 layout: posts
 tags:
  - music

@@ -1,6 +1,5 @@
 # Site TODOs
 
-* Audit & modify blog post titles as needed
 * Spread word about blog
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-logo
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-title
