@@ -1,5 +1,6 @@
 # Site TODOs
 
+* Get my photo to appear next to junhopark.com - in Google search result. Based on https://www.quora.com/How-do-I-display-my-own-images-in-Google-search-results -> not sure if it's really worth doing it.
 * Spread word about blog
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-logo
 * https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-title
