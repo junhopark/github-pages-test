@@ -1,5 +1,4 @@
 ---
-title: My system for staying organized at work
 layout: posts
 tags:
  - being organized
