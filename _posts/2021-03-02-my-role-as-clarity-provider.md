@@ -1,0 +1,27 @@
+---
+title: My Role As "Clarity Provider"
+layout: posts
+tags:
+ - management
+---
+
+Over the last several months I've become increasingly convinced that one of my most important responsibilities as an engineering manager is to provide clarity for folks on my team. In my experience I've found that people work best when they have clarity. When clarity is lacking, it often results in frustratation. People tend to produce higher quality work, get their work done more efficiently, and are more engaged in their work when they have clarity. Clarity enables people to maximize their working hours. Clarity reduces unnecessary mental load that employees tend to carry too much of in my opinion.
+
+Listed below are things that I do to try to provide clarity for my team.
+
+## Documentation
+As I wrote in [this blog post](https://junhopark.com/2021/01/24/note-taking-and-documentation-for-engineering-manager.html) I'm big on documentation. I've found that documentation is one of the most effective tools at providing clarity for people on the team. It's often not enough to just speak to/with people. And - it's also often not enough to just share written words. What I've found to be the most effective at providing clarity is to overcommunicate by both *speaking* AND sharing what's been *documented*. What I'll often do with my team is to speak on something and then shortly thereafter follow it up with documentation where I invite people to take a look and come to me with any questions or comments they might have (I also do a lot of sharing what's been documented first and then follow it up with speaking to it).
+
+## Jira tickets
+Like many engineering teams, my team relies on Jira as the source of truth for information on whatever tasks they need to carry out. What my own experience tells me is that it is very typical for Jira issues to not contain enough information for engineers to carry out their tasks in an effective & efficient manner. There are often large gaping holes in Jira tickets. A big challenge, though, is that creating & maintaining high quality Jira tickets often takes a significant chunk of time and in my opinion it often doesn't get prioritized high enough. My job as an engineering manager is to make sure there's enough clarity in each Jira ticket. Having said this I think people on my team would be the first to tell you that I'm far from being always successful here. It's something that I find myself regularly trying to focus on.
+
+## Share context
+As an engineering manager I'm often involved in meetings and conversations that the vast majority of people on my team often don't participate in. Whenever there is information that I gain during these conversations that I think will provide additional clarity to folks on my team I will almost always take notes, post it on my "notes" wiki page (which I wrote about in [this blog post](https://junhopark.com/2021/01/24/note-taking-and-documentation-for-engineering-manager.html)), and say a few things about it to my team during my recurring meeting with the team. I've found that my team always appreciates it when I proactively share information in this manner and I think it enables the team to work better. Being that I work for a large corporation with tens of thousands of employees (Venmo/PayPal) I am in a lot of meetings with a lot of folks and I frequently gain additional information and context during these meetings that are important for folks on my team to be aware of as well.
+	
+## Get on the same page
+Over the last several months I've become obsessed with making sure that everyone who's involved in whatever projects/tasks need to get done are *on the same page*. I've become increasingly aware of the fact that it is far too common for people to not be on the same page. It often takes someone taking less than a minute to reiterate the important stuff/action items/next steps AND asking the question "Are we all on the same page?" to surface discrepancies in people's understanding of what's being discussed. It is always better & more efficient to get on the same page while the relevant conversation is taking place instead of waiting until sometime *after* the conversation has concluded. And - the longer you wait, the more expensive it usually becomes to resolve the mess that was created because not everyone was on the same page initially.
+
+## Make it a safe place for people to seek clarity
+I try to make my team a safe place for people to seek clarity. I am impatient by nature and I'm usually in a hurry to get things to a done state as quickly as possible at work. As much as I know it can often be counterproductive in the long run to rush on things, it makes my job easier (at least in the moment) when people come to agreements quickly & easily without any sort of pushbacks. This is why when I'm in the middle of a discussion with my team and someone is seeking clarity by asking questions, I frequently have to stop myself from being dismissive of the individual's questions. I have to remind myself that clarity often results in higher quality of work for the team and that if I were in the person's shoes I likely would've asked the same questions myself.
+
+I consistently encourage clarity-seeking as well as clarity-providing behavior on my team by praising and thanking people when they do things like asking good questions that lead to further clarity and providing notes & documentation for the team.
