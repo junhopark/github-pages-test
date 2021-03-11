@@ -22,4 +22,4 @@ I've been working in the software industry for over 20 years and I haven't found
 
 Writing this blog post has caused me to think deeply about why I dislike rating scales so much and perhaps the biggest reason is because of what I've said in the above paragraph. There are no good objective ways to quantifiably measure software engineers' work output, which results in ratings being highly subjective. While I would love to be able to come to a data-driven conclusion at deciding something as important & weighty as whether to give my employee a "Meets Expectations" or "Above Expectations" I don't trust myself to do this well nor do I trust others to do this well either.
 
-In conclusion - let's get rid of performance rating scales because they're highly subjective and they do more harm than good.q
+In conclusion - let's get rid of performance rating scales because they're highly subjective and they do more harm than good.
