@@ -1,0 +1,25 @@
+---
+title: Let's Get Rid Of Performance Rating Scales
+layout: posts
+tags:
+ - management
+---
+
+Several weeks ago I wrapped up conducting employee performance reviews for the 2020 calendar year and it's the first time that I can remember in my career where there was no rating associated with a formal employee review cycle. While at Venmo/PayPal a 3-tier rating system is what we have in place, an exception was made for the 2020 review year to forego ratings due to reasons related to the COVID-19 pandemic.
+
+Just a single performance review cycle with no ratings has convinced me that ratings are detrimental to good performance review conversations and that ultimately they do more harm than good. I had accepted employee ratings as the norm but I now find myself questioning this norm. Here are my reasons why I would love to see performance rating scales a thing of the past--at least in the software industry.
+
+## Demoralizing for the vast majority of employees who are still doing good work
+Based on my experience the vast majority of employees tend not to receive the top rating. Many of these folks tend to be excellent employees but don't earn the top rating for a variety of reasons, often because there's often official/unofficial quota of how many people can fall into the top rating bucket. It can be rather demoralizing for employees when they know they've done great work, are liked by their colleagues, receive consistent feedback that they're doing good work *and yet* in the end they end up with a mere "Average" or "Above Average" rating. For most people this is deflating, demotivating, and even demoralizing.
+
+## Employees (and their reviews) get reduced to their rating
+Just about every time I've been on the giving end of a performance review there are 2 things that appear to take up the vast majority of the employee's attention: 1) Anything that deals with money (merit increase and/or bonus) 2) Rating. Let me focus on the latter for the purposes of this blog post. I would argue that most employees place a lot of weight on the rating they receive and that they basically equate it with a letter grade they would've received if they were in school. Throughout my career I've heard several employers say something along the lines of "Please don't perceive your rating as your letter grade - they're not the same!" and I've come to the conclusion that this is virtually impossible. Employees perceive their rating as a top-level summary of the entirety of their review. Telling my employee "You're doing great!" carries little weight when "Average" or "Above Average" is the rating that I've given them. When I'm on the giving end of a performance review it is awkward for me to tell the employee the wonderful things they're doing when their rating is "Average". Their rating ends up being the lens through which they receive and perceive their review and in most cases this ends up having a negative impact on the quality of the review conversation.
+
+I'd like to now touch on the topic of employees getting reduced their rating. An example of this sort of thing happening is when managers talk amongst themselves and label their employees as "Exceeding expectations" or "Average" based upon their most recent rating. I've been there, done that. Now that my eyes have been opened to the world of no ratings I find myself bothered by reducing employees in this manner. I believe the mere existence of rating scale encourages and promotes managers to label and reduce employees to their most recent set of ratings. This is harmful to employees and ultimately to employers.
+
+## Ratings are highly subjective
+I've been working in the software industry for over 20 years and I haven't found a satisfactory way of objectively quantifying the work output of software engineers. I have not seen anyone do this well. While there *are* what I would call "mini measurements" that give you glimpses into employees' work output (eg, # of Jira tickets that got done, # of bugs opened against their code, etc.) they are just glimpses. I've tried to come up with a satisfactory formula for how to objectively measure software engineers' work output and... I've given up. This is a hard problem to solve and I am personally convinced at this point in my career that this is an *impossible* problem to solve.
+
+Writing this blog post has caused me to think deeply about why I dislike rating scales so much and perhaps the biggest reason is because of what I've said in the above paragraph. There are no good objective ways to quantifiably measure software engineers' work output, which results in ratings being highly subjective. While I would love to be able to come to a data-driven conclusion at deciding something as important & weighty as whether to give my employee a "Meets Expectations" or "Above Expectations" I don't trust myself to do this well nor do I trust others to do this well either.
+
+In conclusion - let's get rid of performance rating scales because they're highly subjective and they do more harm than good.q
