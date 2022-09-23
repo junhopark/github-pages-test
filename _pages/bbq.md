@@ -5,7 +5,7 @@ title: "icc bbq songs"
 
 # 10,000 Reasons
 
-**CHORUS**
+***CHORUS***
 
 Bless the Lord oh my soul, oh my soul
 
@@ -15,7 +15,7 @@ Sing like never before, oh my soul
 
 I’ll worship Your Holy name
 
-**VERSE 1**
+***VERSE 1***
 
 The sun comes up, it’s a new day dawning
 
@@ -25,7 +25,7 @@ Whatever may pass and whatever lies before me
 
 Let me be singing when the evening comes
 
-VERSE 2
+***VERSE 2***
 
 You’re rich in love and You’re slow to anger
 
@@ -35,7 +35,7 @@ For all Your goodness I will keep on singing
 
 Ten thousand reasons for my heart to find
 
-VERSE 3
+***VERSE 3***
 
 And on that day when my strength is failing
 
@@ -48,7 +48,7 @@ Ten thousand years and then forevermore
 
 # Lord Most High
 
-VERSE
+***VERSE***
 
 From the ends of the earth
 
@@ -66,7 +66,7 @@ From the lips of all people
 
 This song song we raise Lord
 
-CHORUS
+***CHORUS***
 
 Throughout the endless ages
 
