@@ -1,6 +1,6 @@
 ---
-permalink: /bbq-songs/
-title: "songs"
+permalink: /bbq/
+title: "icc bbq songs"
 ---
 
 # 10,000 Reasons
