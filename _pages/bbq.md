@@ -5,7 +5,7 @@ title: "icc bbq songs"
 
 # 10,000 Reasons
 
-CHORUS
+**CHORUS**
 
 Bless the Lord oh my soul, oh my soul
 
@@ -15,8 +15,7 @@ Sing like never before, oh my soul
 
 I’ll worship Your Holy name
 
-
-VERSE 1
+**VERSE 1**
 
 The sun comes up, it’s a new day dawning
 
