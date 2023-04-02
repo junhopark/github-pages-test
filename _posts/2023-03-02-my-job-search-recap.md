@@ -5,7 +5,7 @@ tags:
  - interviewing & hiring
 ---
 
-After 4 weeks of very aggressive job searching, I was able to wrap up my job search late last week and I decided on an an offer yesterday. Hooray! This is the first time in my career that I've been able to devote so much time to job searching and while it was extremely draining, it was also a great learning experience. First, some stats:
+After 4 weeks of very aggressive job searching, I was able to wrap up my job search late last week and I decided on an offer yesterday. Hooray! This is the first time in my career that I've been able to devote so much time to job searching and while it was extremely draining, it was also a great learning experience. First, some stats:
 
 * I either submitted an application (~85%) or had someone from the company proactively reach out to me (~15%) with **76** companies.
     * I had interviews with **22** companies (spoke with **66** individuals).
